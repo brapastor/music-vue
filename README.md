@@ -1,5 +1,4 @@
 
-> curso de instroduccion a vue js de platzi
 
 ## Build Setup
 
