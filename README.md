@@ -1,4 +1,3 @@
-# platzimusic
 
 > curso de instroduccion a vue js de platzi
 
